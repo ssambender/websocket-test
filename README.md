@@ -2,7 +2,7 @@
 
 ### Demo of Websockets from what I have learned while making my Tierer of Terror game.
 
-This is essentially the minimum working example of the websocket lobby and join system used in my (Tierer of Terror game)[https://sambender.net/projects/tiererTerror.html].
+This is essentially the minimum working example of the websocket lobby and join system used in my [Tierer of Terror game](https://sambender.net/projects/tiererTerror.html).
 
 #### Some of the features:
 - Websocket handshake connection
